@@ -1,0 +1,9 @@
+DOCUMENTACION:
+APP WEB
+APP MOVIL
+PANEL ADMIN
+
+•	Web App: https://github.com/scarletespinozaMoreno/my-app
+•	Movil App: https://github.com/gejuriera/Sprint2Soft2
+•	Panel Admin: https://github.com/albinisma96/AgregarPromociones
+	Dcuments:https://github.com/scarletespinozaMoreno/Rrecursos-Documentacion-Proyecto-Ing2-ServiceSoft
